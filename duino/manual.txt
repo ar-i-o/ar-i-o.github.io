@@ -1,0 +1,13 @@
+Panduan Pengunaan Smart Door Lock
+<br><br>
+1. Pastikan Ruangan Memiliki Koneksi Internet WiFi Yang Memadai <br>
+2. Hidupkan Smart Door Lock<br>
+3. Buka setting WiFi pada perangakat Smartphone atau laptop dan sambungkan ke Smart Door Lock <br>
+4. Buka Halaman Configure, dan pilih SSID untuk Koneksi WiFi yang paling stabil <br>
+5. Isikan Password WiFi dan Confirm <br>
+6. Tunggu Perangkat Memulai Ulang <br>
+7. Buka Website Dan Pilih Registrasi kartu baru <br>
+8. Scan Kartu Pada RFID Reader untuk membaca UID pada Website <br>
+9. Isi nama Dan kolom yang diperlukan, setelah itu Submit <br>
+<br>
+Alat Smart Door Lock Sudah bisa digunakan
